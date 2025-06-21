@@ -28,9 +28,7 @@ late-show-api-challenge/
 ├── challenge-4-lateshow.postman_collection.json
 ├── README.md
 
-yaml
-Copy
-Edit
+
 
 ---
 
